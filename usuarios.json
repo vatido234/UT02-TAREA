@@ -1,0 +1,22 @@
+[
+    {
+        "username": "admin",
+        "password": "admin123",
+        "nombre": "Kenji Watanabe",
+        "pais": "Japón",
+        "telefono": "612345678",
+        "correo": "admin@watanabe.com",
+        "avatar": "avatar_defecto.png",
+        "rol": "administrador"
+    },
+    {
+        "username": "pepe",
+        "password": "pepe123",
+        "nombre": "Pepe García",
+        "pais": "España",
+        "telefono": "698765432",
+        "correo": "pepe@gmail.com",
+        "avatar": "avatar_defecto.png",
+        "rol": "cliente"
+    }
+]

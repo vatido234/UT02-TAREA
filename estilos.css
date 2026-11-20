@@ -1,0 +1,26 @@
+header {
+    background-color: #c0392b;
+    color: white;
+    text-align: center;
+}
+
+.login {
+    text-align: right;
+}
+
+nav {
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+}
+
+main {
+    text-align: center;
+}
+
+footer {
+    color: gray;
+    text-align: center;
+}
